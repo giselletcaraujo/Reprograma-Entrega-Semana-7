@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Salvador Dalí",
+        "periodo": "surrealismo",
+        "arte": "pintura"
+    },
+    {
+        "nome": "Antoni Gaudí",
+        "periodo": "modernismo",
+        "arte": "arquitetura"
+    },
+    {
+        "nome": "Auguste Rodin",
+        "periodo": "arte moderna",
+        "arte": "escultor"
+    },
+    {
+        "nome": "Pablo Picasso",
+        "periodo": "cubismo",
+        "arte": "pintor"
+    },
+    {
+        "nome": "Beatriz Milhazes",
+        "periodo": "modernismo",
+        "arte": "pintora"
+    },
+    {
+        "nome": "Tarsila do Amaral",
+        "periodo": "pós-impressionismo",
+        "arte": "pintora"
+    },
+    {
+        "nome": "Frida Kahlo",
+        "periodo": "surrealismo",
+        "arte": "pintora"
+    },
+    {
+        "nome": "Gustav Klimt",
+        "periodo": "art nouveau",
+        "arte": "pintor"
+    },
+    {
+        "nome": "Gunta Stölzl",
+        "periodo": "bauhaus",
+        "arte": "artista têxtil"
+    },
+    {
+        "nome": "Tomie Ohtake",
+        "periodo": "arte urbana",
+        "arte": "artista plástica"
+    }
+]
