@@ -24,7 +24,7 @@ servidor-filmes
 ├── package.json
 ```
  
-----> EXTRAS
+**----> EXTRAS**
 Pegar todo os dados .json para listar na rota /tarefas:
 
 Fazer um método para listar tarefas a partir do nome do colaborador (por exemplo, getByNomeColaborador); pelo id (por exmplo, getById) e outros dados específicos do seu .json ou do .json de tarefas que usamos em aula :)
